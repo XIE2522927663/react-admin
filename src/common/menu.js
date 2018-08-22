@@ -111,21 +111,6 @@ const menuData = [
     ],
   },
   {
-    name: '结果页',
-    icon: 'check-circle-o',
-    path: 'result12',
-    children: [
-      {
-        name: '成功',
-        path: 'success',
-      },
-      {
-        name: '失败',
-        path: 'fail',
-      },
-    ],
-  },
-  {
     name: '异常页',
     icon: 'warning',
     path: 'exception',
